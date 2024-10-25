@@ -47,7 +47,7 @@ needs to be filled with an appropriate code to get the correct result. Please re
 """
 
 # Installing the libraries with the specified version.
-!pip install numpy==1.25.2 pandas==1.5.3 matplotlib==3.7.1 seaborn==0.13.1 -q --user
+pip install numpy==1.25.2 pandas==1.5.3 matplotlib==3.7.1 seaborn==0.13.1 -q --user
 
 """**Note**: *After running the above cell, kindly restart the notebook kernel and run all cells sequentially from the start again.*"""
 
